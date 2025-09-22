@@ -18,6 +18,7 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 **Duration:** Total Duration - in minutes or number of seasons
 **Listed_in:** Genre
 **Description:** The summary description
+
 **Objectives of the Project**
 Perform EDA on the given dataset and find insights.
 Provide Useful Insights and Business recommendations that can help the business to grow.
